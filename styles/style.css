@@ -51,7 +51,7 @@ ul {
     line-height: 1.4;
 }
 
-.overlay{
+.overlay {
     position: absolute;
     inset: 0;
     z-index: 1;
