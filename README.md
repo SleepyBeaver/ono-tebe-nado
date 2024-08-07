@@ -1,1 +1,1 @@
-Github: url(https://github.com/SleepyBeaver/ono-tebe-nado)
+https://github.com/SleepyBeaver/ono-tebe-nado
