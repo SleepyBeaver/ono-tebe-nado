@@ -33,7 +33,11 @@ body {
     list-style: circle;
     display: flex;
     justify-content: space-between;
-    column-gap: 35px;
+    column-gap: 33px;
+}
+
+.header__links-list :first-child {
+    list-style: none;
 }
 
 .header__logo-image {
@@ -152,6 +156,7 @@ body {
     padding: 0;
     font-family: 'Raleway', 'Arial', sans-serif;
     font-size: 22px;
+    font-weight: 500;
     color: white;
     border-color: white;
     background-color: transparent;
@@ -286,7 +291,7 @@ body {
 }
 
 footer {
-    padding: 175px 50px 88px;
+    padding: 183px 50px 88px;
     display: grid;
     grid-template-columns: 350px 300px 350px;
     align-items: center;
@@ -294,7 +299,6 @@ footer {
 }
 
 .address {
-    height: 98px;
     justify-self: start;
     font-style: normal;
     line-height: 1.3;
